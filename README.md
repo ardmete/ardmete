@@ -1,16 +1,18 @@
-### Hi there 👋
+![pxfuel](https://github.com/Geofisika-UGM/p01-dasar-dasar-git-ardmete/assets/116077367/024cdc17-cf6e-452f-b189-0f9a2e2a1e8c)
+<h1 align="center">----------👋👋👋 👋👋👋----------</h1>
+<h3 align="center">Hai👋, i'am Isma Setyawan.I'm usually called Isma</h3>
 
-<!--
-**ardmete/ardmete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👦🏾 Hi , i'am **@ardmete**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Geophysics and Python Software**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in **in paper and poster**
+
+- 🏫 I’m studying **in Gadjah Mada University**
+
+- 📫 How to reach me **ismasetyawan2004@mail.ugm.ac.id**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/xyzabcis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xyzabcis" height="30" width="40" /></a>
+</p>
